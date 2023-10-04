@@ -1,0 +1,25 @@
+*{
+    margin: 0;
+    padding: 0;
+    text-decoration: none;
+    list-style: none;
+    color: black;
+}
+
+html{
+    font-size: 20px;
+}
+.d-flex{
+    display: flex;
+}
+.align-item-center{
+    align-items: center;
+}
+.w-100{
+    width: 100%;
+}
+
+.tittle-page-jquery{
+    text-align: center;
+    font-size: 3rem;
+}

@@ -1,0 +1,19 @@
+.card-page .list-item .item{
+    border: 2px solid #ccc;
+    padding: 1rem;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    width: 85%;
+    margin: 1rem auto;
+}
+
+.card-page .list-item .item .item-img img{
+    width: 50%;
+    height: 80%;
+}
+
+.card-page .sum-products .btn-sum .btn{
+    padding: 0.5rem 1rem;
+    margin-right: 0.5rem;
+}
